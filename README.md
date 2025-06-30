@@ -83,7 +83,7 @@ Teniendo en cuenta eso, se definieron los siguientes parametros para la creacion
   <table><thead><tr><th>Parámetro</th><th>Valor</th><th>Descripcion</th></tr></thead><tbody><tr><td>$\alpha$</td><td>10</td><td>Intensidad de campo de repulsion</td></tr><tr><td>$\beta$</td><td>1</td>  <td>Pendiente de función _sigmoidal_</td></tr><tr><td>$r_{inf}$</td><td>$k\cdot 0.1$</td><td>Zona de interaccion con obstaculos</td></tr><tr><td>$\zeta$</td><td>0.1</td><td>Intensidad de campo de atracción</td></tr></tbody></table>
 </div>
 
-Teniendo en cuenta eso se empleó el archivo [codigoCreacionMapas.m](Codigos/codigoCreacionMapas.m) en donde se crea una malla 100x100 (100 puntos en _x_ y 100 puntos en _y_) y se evalua punto a punto el campo potencial. Con este código se obtuvo el siguiente mapa con campo potencial
+Teniendo en cuenta eso se empleó el archivo [codigoCreacionMapas.mlx](Archivos/codigoCreacionMapas.mlx) en donde se crea una malla 100x100 (100 puntos en _x_ y 100 puntos en _y_) y se evalua punto a punto el campo potencial. Con este código se obtuvo el siguiente mapa con campo potencial
 
 <div align='center'>
   <img src='https://github.com/user-attachments/assets/b961c9c1-d821-4e60-88e4-322736bdd60e' width=400>

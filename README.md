@@ -138,7 +138,7 @@ Radio de giro para el vehículo móvil
   <img src='https://github.com/user-attachments/assets/58272737-a8a8-4620-8761-7ad3459174b3' width=400>
 </div>
 
-Escéna CoppeliaSim
+Escéna CoppeliaSim [CampoPotencial.ttt](Archivos/Conexion_coppelia.mlx)
 
 <div align='center'>
   <img src='https://github.com/user-attachments/assets/3babf186-14db-4488-b0bb-18a1841ddafe' width=800>

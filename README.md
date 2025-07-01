@@ -124,11 +124,23 @@ Esta fuerza tangencial solo se usa cuando la fuerza total es $<6$ (este valor se
 A continuación se muestra el gradiente del campo potencial
 
 <div align='center'>
+
   <img src='https://github.com/user-attachments/assets/36832992-61cd-4be4-babe-4d078e10f786' width=400>
 </div>
 
-### 📡 Simulación en CoppeliaSim
-En el siguiente video se presenta la simulación en CoppeliaSim de la navegación del robot Robotnik siguiendo la trayectoria generada por el campo potencial.
+### 📡 Simulación en CoppeliaSim![Uploading RadioRobot.png…]()
+
+En la siguiente imagen se muestra la escena creada en CoppeliaSim, resultante de las dimensiones del vehículo y la constante de radio de giro que para el caso fue de 0.45 metros.
+Radio de giro para el vehículo móvil
+<div align='center'>
+  <img src='https://github.com/user-attachments/assets/58272737-a8a8-4620-8761-7ad3459174b3' width=400>
+</div>
+Escéna CoppeliaSim
+<div align='center'>
+  <img src='https://github.com/user-attachments/assets/3babf186-14db-4488-b0bb-18a1841ddafe' width=400>
+</div>
+
+En el siguiente video se presenta la simulación en CoppeliaSim de la navegación del robot Robotnik siguiendo la trayectoria generada por el campo potencial, para esta simulación se utilizó la conexión entre Matlab y CoppelliaSim utilizando el código [Conexion_coppelia.mlx](Archivos/Conexion_coppelia.mlx).
 <div align="center">
   <video src="https://github.com/user-attachments/assets/b876411f-e2a4-4871-8e4a-a7683be97028">
 </div>

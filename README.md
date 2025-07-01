@@ -137,7 +137,7 @@ Radio de giro para el vehículo móvil
 </div>
 Escéna CoppeliaSim
 <div align='center'>
-  <img src='https://github.com/user-attachments/assets/3babf186-14db-4488-b0bb-18a1841ddafe' width=400>
+  <img src='https://github.com/user-attachments/assets/3babf186-14db-4488-b0bb-18a1841ddafe' width=800>
 </div>
 
 En el siguiente video se presenta la simulación en CoppeliaSim de la navegación del robot Robotnik siguiendo la trayectoria generada por el campo potencial, para esta simulación se utilizó la conexión entre Matlab y CoppelliaSim utilizando el código [Conexion_coppelia.mlx](Archivos/Conexion_coppelia.mlx).

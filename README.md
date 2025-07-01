@@ -128,10 +128,11 @@ A continuación se muestra el gradiente del campo potencial
   <img src='https://github.com/user-attachments/assets/36832992-61cd-4be4-babe-4d078e10f786' width=400>
 </div>
 
-### 📡 Simulación en CoppeliaSim![Uploading RadioRobot.png…]()
+### 📡 Simulación en CoppeliaSim
 
 En la siguiente imagen se muestra la escena creada en CoppeliaSim, resultante de las dimensiones del vehículo y la constante de radio de giro que para el caso fue de 0.45 metros.
 Radio de giro para el vehículo móvil
+
 <div align='center'>
   <img src='https://github.com/user-attachments/assets/58272737-a8a8-4620-8761-7ad3459174b3' width=400>
 </div>

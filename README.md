@@ -130,7 +130,7 @@ A continuación se muestra el gradiente del campo potencial
 
 ### 📡 Simulación en CoppeliaSim
 
-En la siguiente imagen se muestra la escena creada en CoppeliaSim, resultante de las dimensiones del vehículo y la constante de radio de giro que para el caso fue de 0.45 metros.
+En la siguiente imagen se muestra la escena creada en CoppeliaSim, resultante de las dimensiones del vehículo y la constante de radio de giro que para el caso fue de 0.45 metros.\\
 Radio de giro para el vehículo móvil
 
 <div align='center'>

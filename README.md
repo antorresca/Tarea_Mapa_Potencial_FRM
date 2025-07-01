@@ -151,5 +151,5 @@ En el siguiente video se presenta la simulación en CoppeliaSim de la navegació
 </div>
     
 ### 📚 Conclusiones
+
 La navegación por Campo Potencial Artificial resulta ser una herramienta bastante útil para la implementación de generación de trayectorias, además del bajo conste computaciónal debido al uso de funciones, permite una fácil implementacion en diferentes geometrías, Siempre y cuando se tenga el adecuado tratamiento para los mínimos locales, donde puede fallar la planeación de la trayectoria.
-La 

@@ -128,4 +128,8 @@ A continuación se muestra el gradiente del campo potencial
 </div>
 
 ### 📡 Simulación en CoppeliaSim
+En el siguiente video se presenta la simulación en CoppeliaSim de la navegación del robot Robotnik siguiendo la trayectoria generada por el campo potencial.
+<div align="center">
+  <video src= />
+</div>
 ### 📚 Conclusiones
